@@ -12,7 +12,7 @@
 Languages and Tools:
 * Bash
 * Python
-* Pytorch / Tensforlow
+* Pytorch / Tensorflow
 * SQL
 * NoSQL - MongoDB
 * PowerBI, Tableau
