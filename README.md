@@ -17,5 +17,6 @@ Languages and Tools:
 * NoSQL - MongoDB
 * PowerBI, Tableau
 * Azure - Synapse, SQL, Devops, Container Registry/Instances/WebApp, AMLStudio
+* Docker
 * Apache - Airflow, Spark
 * DBT, DVC, MLflow
